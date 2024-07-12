@@ -54,6 +54,11 @@ img, #page {
   text-align: left;
 }
 
+#repo {
+  width: 16px;
+  height: 16px;
+}
+
 .footer-icons {
   text-align: center;
 }
