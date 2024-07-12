@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/krislette/portfolio">
-    <img src="assets/icon.jpeg" alt="Logo" width="80" height="80">
+    <img src="assets/icon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h1 align="center">Krislette Finds</h1>
