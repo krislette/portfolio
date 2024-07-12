@@ -7,7 +7,7 @@
     <img src="assets/icon.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h1 align="center">Krislette Finds</h1>
+  <h1 align="center">Portfolio</h1>
   <p align="center">
     Personal Website
     <br />
