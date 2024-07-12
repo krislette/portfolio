@@ -44,6 +44,10 @@ img, #page {
   color:#000;
 }
 
+.subsection {
+  text-decoration:none
+}
+
 #out {
   display: table;
   margin: 8px auto;
@@ -59,6 +63,10 @@ img, #page {
   height: 16px;
 }
 
-.footer-icons {
-  text-align: center;
+.tartaglia {
+  color: #be5504;
+}
+
+.acelle {
+  color: #880000;
 }
