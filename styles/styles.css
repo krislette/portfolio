@@ -28,7 +28,7 @@ img, #page {
     background:#000;
     color:#fff
   }
-  out {
+  #out {
     color:#6CF
   }
   #l {
@@ -41,10 +41,19 @@ img, #page {
 
 .icon {
   text-decoration: none;
-  color:#be5504;
+  color:#000;
+}
+
+#out {
+  display: table;
+  margin: 8px auto;
 }
 
 #page {
   display: inline-block;
   text-align: left;
+}
+
+.footer-icons {
+  text-align: center;
 }

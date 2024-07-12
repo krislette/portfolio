@@ -1,0 +1,15 @@
++------------------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|   +-------+                                                                  |
+|   |♠  /\                                                                     |
+|   |  /--\   celle is a computer science student at Polytechnic University    |
+|   | /    \  of the Philippines. She is pursuing a Bachelor's degree in       |
+|   +-------+ Computer Science with a big passion for software development     |
+|   and competitive programming (even though she's not really that good at     |
+|   it). Her goal? To be the best version of herself and to have fun along     |
+|   the way!                                                                   |
+|                                                                              |
+|                                                                              |
