@@ -63,6 +63,14 @@ img, #page {
     width: 8px;
     height: 8px;
   }
+
+  #github, 
+  #linkedin, 
+  #facebook, 
+  #spotify {
+    width: 10px;
+    height: 10px;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
