@@ -1,6 +1,6 @@
 .skills {
-  width: 32px;
-  height: 32px;
+  width: 24px;
+  height: 24px;
 }
 
 .skills-title {
@@ -9,7 +9,7 @@
 
 @media (max-width: 600px) {
   .skills {
-    width: 16px;
-    height: 16px;
+    width: 12.5px;
+    height: 12.5px;
   }
 }
