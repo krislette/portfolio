@@ -23,5 +23,6 @@
 </div>
 
 ## Author's Note
-> DYK? My website supports dark mode theme for dark mode users! I also accept suggestions and/or critiques!
-> Feel free to contact me or go [here](https://github.com/krislette/issues) if you want to suggest more features for my portfolio!
+**DYK?** My website supports dark mode theme for dark mode users! I also accept suggestions and/or critiques!
+Feel free to contact me (or not) if you want to suggest more features for my portfolio. You can also go [here](https://github.com/krislette/issues) 
+if you want to give a *contactless* suggestion (I just made that phrase up). 
