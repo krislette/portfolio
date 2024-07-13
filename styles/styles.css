@@ -17,11 +17,6 @@ img, #page {
   max-width:80ch
 }
 
-@media(max-width:999px) {
-  body {
-    font-size:1.94vw
-  }
-}
 
 .icon {
   text-decoration: none;
@@ -55,7 +50,15 @@ img, #page {
   color: #880000;
 }
 
-@media(prefers-color-scheme:dark) {
+@media (max-width:999px) {
+  body {
+    font-size:1.94vw;
+    width: 12px;
+    height: 12px;
+  }
+}
+
+@media (prefers-color-scheme:dark) {
   body {
     background:#121213;
     color:#fff
