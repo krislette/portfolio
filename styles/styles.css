@@ -23,22 +23,6 @@ img, #page {
   }
 }
 
-@media(prefers-color-scheme:dark) {
-  body {
-    background:#000;
-    color:#fff
-  }
-  #out {
-    color:#6CF
-  }
-  #l {
-    color:#F33
-  }
-  #g {
-    filter: invert(1)
-  }
-}
-
 .icon {
   text-decoration: none;
   color:#000;
@@ -64,9 +48,52 @@ img, #page {
 }
 
 .tartaglia {
-  color: #be5504;
+  color: #cc5800;
 }
 
 .acelle {
   color: #880000;
+}
+
+@media(prefers-color-scheme:dark) {
+  body {
+    background:#121213;
+    color:#fff
+  }
+
+  #out {
+    color:#fff
+  }
+
+  .icon {
+    color: #fff;
+  }
+
+  .tartaglia {
+    color: #ff7415;
+  }
+
+  .acelle {
+    color: #ff2c2c;
+  }
+
+  #repo, #github, #linkedin, #facebook, #spotify, .skills, .repo-link, .web-link {
+    filter: invert(1)
+  }
+
+  .header-link {
+    color: #996fd6;
+  }
+
+  .header-link:active {
+    color: #ff2c2c;
+  }
+
+  .subsection, .cert-link, .contact, .redirect {
+    color: #996fd6;
+  }
+
+  .subsection:active, .cert-link:active, .contact:active, .redirect:active {
+    color: #ff2c2c;
+  }
 }
