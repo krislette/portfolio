@@ -53,6 +53,16 @@ img, #page {
 @media (max-width:999px) {
   body {
     font-size:1.94vw;
+  }
+
+  #repo, 
+  #github, 
+  #linkedin, 
+  #facebook, 
+  #spotify, 
+  .skills, 
+  .repo-link, 
+  .web-link {
     width: 12px;
     height: 12px;
   }
@@ -80,7 +90,14 @@ img, #page {
     color: #ff2c2c;
   }
 
-  #repo, #github, #linkedin, #facebook, #spotify, .skills, .repo-link, .web-link {
+  #repo, 
+  #github, 
+  #linkedin, 
+  #facebook, 
+  #spotify, 
+  .skills, 
+  .repo-link, 
+  .web-link {
     filter: invert(1)
   }
 
@@ -92,11 +109,19 @@ img, #page {
     color: #ff2c2c;
   }
 
-  .subsection, .cert-link, .contact, .redirect, #archive {
+  .subsection, 
+  .cert-link, 
+  .contact, 
+  .redirect, 
+  #archive {
     color: #996fd6;
   }
 
-  .subsection:active, .cert-link:active, .contact:active, .redirect:active, #archive:active {
+  .subsection:active, 
+  .cert-link:active, 
+  .contact:active, 
+  .redirect:active, 
+  #archive:active {
     color: #ff2c2c;
   }
 }
