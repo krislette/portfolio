@@ -6,3 +6,10 @@
 .skills-title {
   color: #000;
 }
+
+@media (max-width: 600px) {
+  .skills {
+    width: 16px;
+    height: 16px;
+  }
+}
