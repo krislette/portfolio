@@ -10,6 +10,7 @@
   <h1 align="center">Portfolio</h1>
   <p align="center">
     Personal Website
+    *My website supports dark mode theme for dark mode users!* 
     <br />
     <a href="https://acelixir.tech/"><strong>Explore the website »</strong></a>
     <br />
