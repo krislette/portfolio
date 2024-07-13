@@ -89,11 +89,11 @@ img, #page {
     color: #ff2c2c;
   }
 
-  .subsection, .cert-link, .contact, .redirect {
+  .subsection, .cert-link, .contact, .redirect, #archive {
     color: #996fd6;
   }
 
-  .subsection:active, .cert-link:active, .contact:active, .redirect:active {
+  .subsection:active, .cert-link:active, .contact:active, .redirect:active, #archive:active {
     color: #ff2c2c;
   }
 }
