@@ -11,14 +11,14 @@
   <p align="center">
     Personal Website
     <br />
-    <a href="https://acelixir.tech/"><strong>Explore the website »</strong></a>
+    <a href="https://krislette.me"><strong>Explore the website »</strong></a>
     <br />
     <br />
     <a href="https://github.com/krislette/portfolio">View Source Code</a>
     ·
-    <a href="https://github.com/krislette/jeepney-navigation/issues">Report Bug</a>
+    <a href="https://github.com/krislette/portfolio/issues">Report Bug</a>
     ·
-    <a href="https://github.com/krislette/jeepney-navigation/issues">Request Feature</a>
+    <a href="https://github.com/krislette/portfolio/issues">Request Feature</a>
   </p>
 </div>
 
