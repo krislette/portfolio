@@ -50,7 +50,7 @@ img, #page {
   color: #880000;
 }
 
-@media (max-width:999px) {
+@media (max-width: 999px) {
   body {
     font-size:1.94vw;
   }
@@ -68,7 +68,25 @@ img, #page {
   }
 }
 
-@media (prefers-color-scheme:dark) {
+@media (max-width: 600px) {
+  body {
+    font-size: 1.94vw;
+  }
+
+  #repo, 
+  #github, 
+  #linkedin, 
+  #facebook, 
+  #spotify, 
+  .skills, 
+  .repo-link, 
+  .web-link {
+    width: 12px;
+    height: 12px;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
   body {
     background:#121213;
     color:#fff
