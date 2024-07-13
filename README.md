@@ -10,7 +10,6 @@
   <h1 align="center">Portfolio</h1>
   <p align="center">
     Personal Website
-    *My website supports dark mode theme for dark mode users!* 
     <br />
     <a href="https://acelixir.tech/"><strong>Explore the website »</strong></a>
     <br />
@@ -22,3 +21,7 @@
     <a href="https://github.com/krislette/jeepney-navigation/issues">Request Feature</a>
   </p>
 </div>
+
+## Author's Note
+> DYK? My website supports dark mode theme for dark mode users! I also accept suggestions and/or critiques!
+> Feel free to contact me or go [here](https://github.com/krislette/issues) if you want to suggest more features for my portfolio!
