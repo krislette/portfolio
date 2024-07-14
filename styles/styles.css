@@ -83,6 +83,10 @@ img, #page {
     color:#fff
   }
 
+  #spade {
+    filter: invert(1);
+  }
+
   .icon {
     color: #fff;
   }
@@ -101,6 +105,7 @@ img, #page {
   #facebook, 
   #spotify, 
   .skills, 
+  .ides, 
   .repo-link, 
   .web-link {
     filter: invert(1)

@@ -3,12 +3,18 @@
   height: 24px;
 }
 
-.skills-title {
-  color: #000;
+.ides {
+  width: 24px;
+  height: 24px;
 }
 
 @media (max-width: 600px) {
   .skills {
+    width: 12.5px;
+    height: 12.5px;
+  }
+
+  .ides {
     width: 12.5px;
     height: 12.5px;
   }
