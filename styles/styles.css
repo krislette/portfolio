@@ -50,6 +50,15 @@ img, #page {
   color: #880000;
 }
 
+.header-link,
+.subsection, 
+.cert-link, 
+.contact, 
+.redirect, 
+#archive {
+  text-decoration: none;
+}
+
 @media (max-width: 600px) {
   body {
     font-size: 1.94vw;
