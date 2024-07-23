@@ -61,6 +61,7 @@ img, #page {
 .redirect, 
 #archive {
   text-decoration: none;
+  color: #800080;
 }
 
 @media (max-width: 600px) {
